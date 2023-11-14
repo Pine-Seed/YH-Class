@@ -1,0 +1,9 @@
+{
+    "url": "Your school website",
+    "username": "Your username",
+    "password": "Your password",
+    "user_agent": {
+                       "Device Name one": "The UserAgent for this device",
+                       "Device Name two": "The UserAgent for this device"
+                  }
+}
