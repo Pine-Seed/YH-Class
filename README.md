@@ -1,6 +1,6 @@
 # YH-Class
 
-[EN](https://github.com/Pine-Seed/YH-Class/blob/main/README.md)|[简中]()
+[EN](https://github.com/Pine-Seed/YH-Class/blob/main/README.md)|[简中](https://github.com/Pine-Seed/YH-Class/blob/main/README_zh.md)
 
 A classroom video learning tool developed based on Python
 
